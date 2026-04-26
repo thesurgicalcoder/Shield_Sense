@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145830787395",
+    "project_id": "phishguard-bbefb",
+    "storage_bucket": "phishguard-bbefb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145830787395:android:636e6ed6873e2aba4317f6",
+        "android_client_info": {
+          "package_name": "com.example.shieldsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSgw492hNQF2t02QQzzueoQveILXMCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

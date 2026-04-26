@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShieldSense</string>
+    <string name="system_ready_text">> System Ready.\n> Waiting for incoming messages...</string>
+    <string name="status_danger">DANGER</string>
+    <string name="status_safe">SAFE</string>
+    <string name="scam_detected_text">> SCAM DETECTED!\n> Message: %1$s\n> Action: Blocked</string>
+    <string name="safe_message_text">> Message Scanned.\n> Status: Safe\n> Message: %1$s</string>
+</resources>
