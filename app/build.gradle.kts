@@ -6,6 +6,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.parcelize)
     alias(libs.plugins.google.services)
+    alias(libs.plugins.kotlin.compose)
 }
 
 android {
@@ -53,9 +54,6 @@ android {
         compose = true
         buildConfig = true
         viewBinding = true
-    }
-    composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.3"
     }
     packaging {
         resources {
